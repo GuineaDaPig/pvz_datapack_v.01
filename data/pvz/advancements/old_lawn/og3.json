@@ -1,0 +1,20 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "The orginal trio",
+        "description": "Aquire the Peashooter, the Sunflower, and the Wallnut!",
+        "icon": {
+            "item": "minecraft:music_disc_cat"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "pvz:old_lawn/get_wallnut"
+}

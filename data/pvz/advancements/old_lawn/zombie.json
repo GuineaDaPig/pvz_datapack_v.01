@@ -1,0 +1,20 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": "Necrophobia",
+        "description": "Defeat Level 1.",
+        "icon": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "imposs": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "pvz:old_lawn/tutorial"
+}
