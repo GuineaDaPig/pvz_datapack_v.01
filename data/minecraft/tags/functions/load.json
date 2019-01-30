@@ -1,6 +1,4 @@
 {
-    "values":
-        [
-			"pvz:core/scores"
-        ]
+  "replace": false,
+  "values": ["pvz:load"]
 }

@@ -1,6 +1,4 @@
 {
-    "values":
-        [
-			"pvz:main"
-        ]
+  "replace": false,
+  "values": ["pvz:main"]
 }
