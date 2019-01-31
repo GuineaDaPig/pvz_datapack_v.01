@@ -1,1 +1,1 @@
-tellraw @a {"text":"Minecraft PvZ Successfully  Loaded","color":"aqua"}
+tellraw @a {"text":"Minecraft PvZ Successfully Loaded","color":"aqua"}
