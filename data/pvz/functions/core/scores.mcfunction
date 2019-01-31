@@ -31,8 +31,8 @@ scoreboard objectives add LUse dummy
 scoreboard objectives add LLUse dummy
 scoreboard objectives add PMUse dummy
 scoreboard objectives add GPSUse dummy
-scoreboard objectives add PIUse dummy 
-scoreboard objectives add DUse dummy 
+scoreboard objectives add PIUse dummy
+scoreboard objectives add DUse dummy
 #For Plants
 scoreboard objectives add AbilityCD dummy
 scoreboard objectives add PlantHealth dummy
@@ -49,9 +49,8 @@ scoreboard objectives add wavebar dummy
 ##Adds Teams
 team add sunGlow
 team modify sunGlow color gold
-team add shroomGlow 
+team add shroomGlow
 team modify shroomGlow color dark_purple
 
 #* Adds Random *#
 function pvz:random/init
-
